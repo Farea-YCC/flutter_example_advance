@@ -1,0 +1,4 @@
+*.dart linguist-language=Dart
+*.dart linguist-vendored
+*.cpp linguist-language=C++
+*.h linguist-language=C++
