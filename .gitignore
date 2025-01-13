@@ -44,3 +44,12 @@ app.*.map.json
 
 # FVM Version Cache
 .fvm/
+
+# CMake build directories
+CMakeLists.txt.user
+.cmake/
+CMakeCache.txt
+CMakeFiles/
+cmake-build-debug/
+cmake-build-release/
+*.cmake
