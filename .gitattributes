@@ -2,3 +2,5 @@
 *.dart linguist-vendored
 *.cpp linguist-language=C++
 *.h linguist-language=C++
+*.cmake linguist-language=CMake
+*.swift linguist-language=Swift
